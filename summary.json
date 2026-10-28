@@ -1,0 +1,17 @@
+{
+    "DEV_A": {
+        "record_count": 4,
+        "average_temperature": 50.25,
+        "error_count": 1
+    },
+    "DEV_C": {
+        "record_count": 3,
+        "average_temperature": 37.833333333333336,
+        "error_count": 1
+    },
+    "DEV_E": {
+        "record_count": 2,
+        "average_temperature": 80.0,
+        "error_count": 0
+    }
+}
